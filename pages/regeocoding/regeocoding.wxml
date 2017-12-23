@@ -1,0 +1,6 @@
+<!--start.wxml-->
+
+<button class="btn1" bindtap="getDataFromOneNet">
+洗手间情况(OneNet)</button>
+
+<text id="text">早上好！今天也是美好的一天~</text>

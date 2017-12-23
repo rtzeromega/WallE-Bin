@@ -1,0 +1,15 @@
+/* start.wxss */
+
+.btn1{
+  width: 60%;
+  top: 20%
+}
+
+  #text{
+  color: #888888;
+  font-family:PingFangSC-Regular;
+  font-size:20px;
+  top: 55%;
+  left: 17%;
+  position: absolute
+  }
